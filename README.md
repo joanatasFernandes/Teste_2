@@ -4,6 +4,7 @@
 
 - strogonof de frango.
 - Carne cozida com Purê
+- frango Assado
 
 
 
