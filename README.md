@@ -3,6 +3,7 @@
 Óla! Bem vindo ao meu livro de receitas teste :wave:
 
 - strogonof de frango.
+- Carne cozida com Purê
 
 
 
